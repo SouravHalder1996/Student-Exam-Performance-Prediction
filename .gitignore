@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Student-Performance/
 
 # Spyder project settings
 .spyderproject
